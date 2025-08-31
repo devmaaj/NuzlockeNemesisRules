@@ -8,17 +8,26 @@
 
 ## Regras de Competição
 
-- **Meu Rival** – Cada jogador deve nomear seu Rival (NPC) dentro do jogo com o mesmo nome usado pelo oponente.
-
 - **Dueto de Versões** – Cada jogador deve jogar uma versão oficial diferente do mesmo jogo de Pokémon (ex.: Red e Blue, ou Gold e Silver) para garantir que ambos enfrentem desafios equivalentes da mesma geração.
 
 - **Jogo Imaculado** – O jogo deve permanecer em seu estado original, sem patches, hacks, randomizers, cheats ou qualquer modificação que altere a jogabilidade, Pokémon disponíveis, eventos ou mecânicas oficiais.
 
-- **Duelo de Dominância** – Após cada batalha contra o Rival (NPC), os jogadores devem usar exatamente os mesmos Pokémon que participaram dessa batalha para se enfrentarem em umMD (melhor de 3). O vencedor deve invocar um Pink Slip para o jogador derrotado. A regra de morte permanente não se aplic nos Duelo de Dominância.
+- **Meu Rival** – Cada jogador deve nomear seu Rival (NPC) dentro do jogo com o mesmo nome usado pelo oponente.
+
+- **Duelos contra Rivais** – Todos os duelos contra rivais devem ocorrer simultaneamente, ou seja, ambos os jogadores devem enfrentar suas batalhas contra o rival ao mesmo tempo. Confrontos dinâmicos ou opcionais contra rivais (por exemplo, encontros secundários) devem ser acionados apenas em comum acordo entre os jogadores. Nenhum jogador pode forçar esses encontros sem consentimento.
+
+- **Duelo de Dominância** – Após cada batalha contra o Rival (NPC), os jogadores devem se enfrentar em um MD3 (melhor de três) usando exatamente os mesmos Pokémon que participaram e sobreviveram a essa batalha contra o Rival .  
+Se for o **primeiro Duelo de Dominância** (aquele que ocorre após receber seu Pokémon inicial), o duelo deve acontecer no primeiro Centro Pokemon que os jogadores encontrarem e ao final do MD3 ambos os jogadores são submetidos à regra **Marca da Rivalidade**.  
+Caso não seja a primeira batalha, o duelo deve acontecer no Centro Pokemon mais próximo e o vencedor deve aplicar a regra **Pink Slip** ao jogador derrotado.  
+A regra de morte permanente **não se aplica** nos Duelo de Dominância.
+
+- **Marca da Rivalidade** – Durante o primeiro Duelo de Dominância, a inexperiência e a rivalidade entre você e seu rival levam seus Pokémon ao limite.  
+Os ferimentos sofridos são graves, e seu Pokémon inicial não apresenta chances de recuperação.  
+Entre o primeiro e o segundo Duelo de Dominância, ele deve ser classificado como "Morto" e submetido à regra **Caixinha da Saudade**.
 
 - **Pink Slip** – Após um Duelo de Dominância, o vencedor escolhe um Pokémon do time do oponente derrotado. A troca ocorre em um Centro Pokémon próximo, onde o vencedor pode oferecer qualquer Pokémon como moeda de troca, e o perdedor deve enviar o Pokémon escolhido.
 
-- **Negociações Permitidas** – Jogadores podem negociar a qualquer momento, e uma vez feito o acordo, ambas as partes devem **cumpri-lo sem exceções**.
+- **Negociações Permitidas** – Jogadores podem negociar a qualquer momento, e uma vez feito o acordo, ambas as partes devem cumpri-lo sem exceções.
 
 - **Captura Limitada** – Apenas o primeiro Pokémon encontrado em cada área pode ser capturado.
 
@@ -59,3 +68,5 @@
 ![Ash](img/ash.png)
 
 ---
+
+

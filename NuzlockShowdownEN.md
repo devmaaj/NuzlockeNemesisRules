@@ -8,13 +8,19 @@
 
 ## Competition Rules
 
-- **My Rival** – Each player must name their in-game Rival (NPC) with the same name as their opponent's.
-
 - **Version Duet** – Each player must play a different official version of the same Pokémon game (e.g., Red and Blue, or Gold and Silver) to ensure both face equivalent challenges of the same generation.
+
+- **My Rival** – Each player must name their in-game Rival (NPC) with the same name as their opponent's.
 
 - **Untouched Game** – The game must remain in its original state, with no patches, hacks, randomizers, cheats, or any modifications that alter gameplay, available Pokémon, events, or official mechanics.
 
-- **Dominance Duel** – After each battle against the in-game rival (NPC), players must use exactly the same Pokémon that participated in that battle to face each other in a MD3 duel (best of 3). The winner must invoke a Pink Sli* for the defeated player. The permanent death rule does not apply in Dominance Duels.
+- **Rival Duels** – All duels against rivals must occur simultaneously, meaning both players must face their rival battles at the same time. Dynamic or optional rival encounters (e.g., side encounters) must only be triggered by mutual agreement between the players. Players cannot force such battles without consent.
+
+- **Dominance Duel** – After each battle against a Rival (NPC), players must face each other in a Best of Three (B3) match using the exact same Pokémon that participated in and survived that battle against the Rival.
+If this is the **first Dominance Duel** (the one that occurs after receiving your Starter Pokémon), the duel must take place at the first Pokémon Center the players encounter, and at the end of the B3, both players are subject to the **Mark of Rivalry** rule. If this is not the first battle, the duel must take place at the nearest Pokémon Center, and the winner must apply the **Pink Slip** rule to the defeated player. The permanent death rule **does not apply** to Dominance Duels.
+
+- **Mark of Rivalry** – During the first Dominance Duel, inexperience and the rivalry between you and your rival push your Pokémon to their limits. The injuries sustained are severe, and your Starter Pokémon has no chance of recovery.
+Between the first and second Dominance Duel, he must be classified as "Dead" and subjected to the **Hall of Remembrance** rule.
 
 - **Pink Slip** – After a Dominance Duel, the winner chooses a Pokémon from the defeated opponent's team. The trade occurs at the nearest Pokémon Center, where the winner may offer any Pokémon as exchange, and the loser must send the chosen Pokémon.
 
