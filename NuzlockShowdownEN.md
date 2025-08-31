@@ -50,7 +50,7 @@
 
 - **"Set" Battles Only** – Players must use the "Set" battle type in the game settings.
 
-- **No Healing Stations in Dungeons** – No Pokécenter-like healing in dungeons (e.g., Rocket Hideout NPC, SS Anne bed). Forced heals from story events are allowed, but returning for more healing is prohibited.
+- **Limited Healing Center Usage in Dungeons** – Healing centers found in dungeons (e.g., Rocket Hideout, SS Anne bed) may only be used once per dungeon. Story-mandated healing events are still allowed.
 
 - **No Shops** – You can only use items that you pick up or are given by an NPC, no use of stores except for any type of Pokeball, Repel or Evolution Stones. You cannot ask an NPC to buy items for you (e.g. Mom), nor can you buy items to trade them for other items (e.g. Poké Balls -> Full Restores)
 

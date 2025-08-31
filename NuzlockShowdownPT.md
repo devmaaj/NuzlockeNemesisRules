@@ -50,7 +50,7 @@
 
 - **Batalhas “Set” Apenas** – Os jogadores devem usar o tipo de batalha "Set" nas configurações do jogo.
 
-- **Sem Centros de Cura em Dungeons** – Não é permitido curar Pokémon em dungeons com estilo Pokécenter (ex.: NPC Rocket Hideout, cama do SS Anne). Curar por eventos da história é permitido, mas voltar para curar mais é proibido.
+- **Limite de Centros de Cura em Dungeons** – Centros de cura presentes em dungeons (ex.: Rocket Hideout, cama do SS Anne) só podem ser usados uma única vez por dungeon. Curar por eventos obrigatórios da história continua sendo permitido.
 
 - **Sem Lojas** – Você só pode usar itens que você pega ou recebe de um NPC, sem uso de lojas, exceto para qualquer tipo de Pokébola, Pedra de Repulsão ou Pedra de Evolução. Você não pode pedir a um NPC para comprar itens para você (por exemplo, a Mãe), nem pode comprar itens para trocá-los por outros itens (por exemplo, Poké Bolas -> Restaurações Completas).
 
