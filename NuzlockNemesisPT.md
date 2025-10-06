@@ -1,6 +1,6 @@
-# Nuzlock Showdown
+# Nuzlock Nemesis
 
-**Nuzlock Showdown** é um desafio competitivo entre dois jogadores, onde cada decisão pode determinar a vitória ou a derrota. Teste seus conhecimentos, suas escolhas e sua capacidade de superar os oponentes sob pressão.
+**Nuzlock Nemesis** é um desafio competitivo entre dois jogadores, onde cada decisão pode determinar a vitória ou a derrota. Teste seus conhecimentos, suas escolhas e sua capacidade de superar os oponentes sob pressão.
 
 ![Red and Blue Rivals](img/Red_and_Blue_Rivals.png)
 
